@@ -1,0 +1,17 @@
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\bin\Debug\FirstSchoolCProj.exe.config
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\bin\Debug\FirstSchoolCProj.exe
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\bin\Debug\FirstSchoolCProj.pdb
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.csprojAssemblyReference.cache
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.AddParts.resources
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.Form1.resources
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.Properties.Resources.resources
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.csproj.GenerateResource.cache
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.csproj.CoreCompileInputs.cache
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.exe
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.pdb
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.AddProduct.resources
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.ModifyParts.resources
+C:\Users\dgcar\source\repos\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.ModifyProduct.resources
+C:\Users\dgcar\Documents\00Programs\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.csprojAssemblyReference.cache
+C:\Users\dgcar\Documents\00Programs\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.exe
+C:\Users\dgcar\Documents\00Programs\FirstSchoolCProj\FirstSchoolCProj\obj\Debug\FirstSchoolCProj.pdb
